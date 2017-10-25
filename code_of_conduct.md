@@ -1,6 +1,6 @@
 # Code of conduct
 
-This code of conduct outlines our expectations for participants within the [LogOut](https://www.comexpocybersecurity.com/logout) community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
+This code of conduct outlines our expectations for participants within the [LogOut](http://logout.infinitedefense.org/) community, as well as steps to reporting unacceptable behavior. We are committed to providing a welcoming and inspiring community for all and expect our code of conduct to be honored. Anyone who violates this code of conduct may be banned from the community.
 
 ## Participation Guidelines
 
