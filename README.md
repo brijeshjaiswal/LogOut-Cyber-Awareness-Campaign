@@ -10,4 +10,4 @@ Mozilla Reps: https://reps.mozilla.org/e/logout-world-s-biggest-cyber-awareness-
 Website: http://logout.infinitedefense.org/
 Youtube: https://www.youtube.com/channel/UCw0CB-MBFzokP9Vr9smryiQ
 Facebook page :https://www.facebook.com/LogoutIDF/
-Twitter : https://twitter.com/logoutidf
+Twitter: https://twitter.com/logoutidf
