@@ -6,7 +6,7 @@ Its time to #bringthechange #bethechange releasing the form to join our ultimate
 help us to reach out maximum people and aware them about cyber security all over india. #india #needsthechange #logoutccs #cyberawareness #ccs #mozilla #cybersecurity #logoutidf
 
 ## Issue Template:
-
+https://github.com/infinitedefense/LogOut-Cyber-Awareness-Campaign/edit/master/README.md
 [Click here](https://github.com/rowdymehul/ZimbraEX/issues/new?template=help.md) to create issue with default template
 
 ```
@@ -44,9 +44,9 @@ You can contribute in a number of ways.
  
  ## Community Channels
 
-Mozilla OLT Link: https://mozilla.github.io/leadership-training/round-4/projects/
-Mozilla Reps: https://reps.mozilla.org/e/logout-world-s-biggest-cyber-awareness-campaign/
-Website: http://logout.infinitedefense.org/
-Youtube: https://www.youtube.com/channel/UCw0CB-MBFzokP9Vr9smryiQ
-Facebook page :https://www.facebook.com/LogoutIDF/
-Twitter: https://twitter.com/logoutidf
+* Mozilla OLT Link: https://mozilla.github.io/leadership-training/round-4/projects/
+* Mozilla Reps: https://reps.mozilla.org/e/logout-world-s-biggest-cyber-awareness-campaign/
+* Website: http://logout.infinitedefense.org/
+* Youtube: https://www.youtube.com/channel/UCw0CB-MBFzokP9Vr9smryiQ
+* Facebook page :https://www.facebook.com/LogoutIDF/
+* Twitter: https://twitter.com/logoutidf
